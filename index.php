@@ -562,5 +562,8 @@ EOPAGEC;
 echo $pageContents;
 echo "linea nueva";
 echo "linea nueva";
+$a = 5;
+$b = 5;
+echo "Suma" . $a + $b;
 
 ?>
