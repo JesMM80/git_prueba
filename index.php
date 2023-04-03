@@ -560,5 +560,7 @@ if(select.addEventListener) {
 EOPAGEC;
 
 echo $pageContents;
+echo "linea nueva";
+echo "linea nueva";
 
 ?>
